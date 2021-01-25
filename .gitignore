@@ -103,5 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+/migrations
+.vscode
 .DS_Store
 .env
+.sqlite3
+__pycache__
