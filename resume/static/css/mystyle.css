@@ -847,10 +847,22 @@ body.offcanvas {
     .progress-bar.color-12 span {
       color:#ffcc99; }
 .progress-bar.color-13 {
-    background: #006600; }
+    background: #ff8800; }
     .progress-bar.color-13:after {
-      background: #006600; }
+      background:#ff8000; }
     .progress-bar.color-13 span {
+      color:#ff8000; }
+.progress-bar.color-14 {
+    background: #06ffff; }
+    .progress-bar.color-14:after {
+      background: #06ffff; }
+    .progress-bar.color-14 span {
+      color:#06ffff; }
+.progress-bar.color-15 {
+    background: #006600; }
+    .progress-bar.color-15:after {
+      background: #006600; }
+    .progress-bar.color-15 span {
       color:#006600; }
 
 
