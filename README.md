@@ -2,4 +2,9 @@
 
 ## This is my web resume that using Django Framework.
 
-` Author by : Wikrom Chanthakhun `
+# Prerequisite
+```
+Python (ver.3.7 or newer) 
+```
+
+> Author by : Wikrom Chanthakhun 
