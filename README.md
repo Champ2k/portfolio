@@ -1,6 +1,6 @@
 # Portfolio
 
-## This is my web resume that using Django Framework.
+### This is my web resume that using Django Framework.
 
 # Prerequisite
 ```
